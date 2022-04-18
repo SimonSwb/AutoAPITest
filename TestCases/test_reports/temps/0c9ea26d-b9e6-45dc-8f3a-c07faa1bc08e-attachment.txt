@@ -1,0 +1,9 @@
+2022-04-12 19:18:34 - INFO: Case名称：测试账号登陆
+
+2022-04-12 19:18:34 - INFO: 请求方式： post
+
+2022-04-12 19:18:34 - INFO: 请求url地址： https://monitor.autowise.tech/v1/user/login
+
+2022-04-12 19:18:34 - INFO: 请求头: {'content-type': 'application/json'}
+
+2022-04-12 19:18:34 - INFO: 请求data参数: {"id": 193, "username": "sunwenbin", "password": "Ababab999.", "chinese_name": "\u5b59\u6587\u5f6c", "is_developer": true, "time_zone": 0, "lang": "zh-CN", "private_logo": ""}

@@ -1,0 +1,10 @@
+pytest
+pytest-html
+pytest-xdist
+pytest-ordering
+pytest-rerunfailuers
+allure-pytest
+PyYAML
+logging
+requests
+traceback

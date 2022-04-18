@@ -1,0 +1,12 @@
+login:
+  username: sunwenbin
+  password: Ababab999.
+
+baidu:
+  url: https://www.baidu.com/
+  method: get
+
+baidu2:
+  url: https://www.baidu.com/
+  method: get
+
