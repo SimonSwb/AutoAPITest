@@ -1,1 +1,0 @@
-{"status":"success","data":{"id":193,"username":"sunwenbin","chinese_name":"孙文彬","is_developer":true,"time_zone":0,"lang":"zh-CN","private_logo":""}}
